@@ -128,7 +128,7 @@ Position First(List L)
     return L->Next;
 }
 
-Position Head(List L)
+Position Header(List L)
 {
     return L;
 }
